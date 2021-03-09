@@ -9,7 +9,6 @@ function Board({squares,onClick}){
         ))}
         </div>
         )
-    
 }
 
 export default Board;
